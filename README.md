@@ -4,7 +4,7 @@
 
 For headers: Use single and double pound signs 
 
-For italics and bold: use single and double sterisks around words 
+For italics and bold: use single and double asterisks around words 
 
 Put links to GitHub in brackets an parentheses: [link to Github](https://github.com/jarczyka/SG_DAT1/edit/master/README.md) 
 
