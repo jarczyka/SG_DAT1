@@ -2,7 +2,7 @@
 
 ## Basic Markdown
 
-For headers: Use single and double pound signs 
+For headers: Use single and double pound signs (see above)
 
 For italics and bold: use *single* and **double** asterisks around words 
 
